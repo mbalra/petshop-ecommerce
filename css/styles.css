@@ -52,6 +52,12 @@ img {
     font-size: 1.2rem;
 }
 
+.btn:hover{
+    background: var(--clr--lig);
+    border: 1px solid var(--clr--pri);
+    color: var(--clr--pri);
+
+}
 /*---------------------------------------------------HEADER------------------------------------------*/
 
 header {
