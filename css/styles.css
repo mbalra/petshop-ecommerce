@@ -47,7 +47,7 @@ img {
     border: none;
     border-radius: 40px;
     box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.316);
-    margin-top: .8em;
+
     font-weight: 800;
     font-size: 1.2rem;
 }
@@ -146,6 +146,7 @@ li:hover {
 .hero-txt p {
     margin: .4em 0 .4em 0;
     font-size: .9rem;
+    margin-bottom: 1em;
 }
 
 h1 {
