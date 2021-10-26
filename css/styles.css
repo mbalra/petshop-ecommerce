@@ -173,6 +173,7 @@ h1 {
 
     .hero-txt {
         width: 60%;
+         margin-top: .8em;
     }
 
     .hero-txt p {
