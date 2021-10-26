@@ -1,4 +1,4 @@
-let informacion = "http://127.0.0.1:5500/js/datos.json" ;
+let informacion = "https://mbalra.github.io/petshop-ecommerce/js/datos.json" ;
 
 
 $.getJSON(informacion, function(respuesta, estado){

@@ -142,3 +142,8 @@ function comprar() {
     itemCarTotal.innerHTML = `Total $${total} `;
 
 }
+
+
+/*----------------------------------------ANIMACIONES------------------------------------*/
+
+$(".fade").fadeIn(2000)
